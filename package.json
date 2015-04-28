@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/frenchie4111/mocha-runnable-generators",
   "dependencies": {
+    "chai": "^2.3.0",
     "is-generator": "^1.0.0",
     "q": "^1.3.0"
   }
