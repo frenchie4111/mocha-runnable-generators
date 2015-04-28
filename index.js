@@ -17,8 +17,6 @@
      */
     var replaceRun = function( mocha ) {
         assert.isDefined( mocha );
-        assert.property( mocha, Runnable );
-        assert.property( mocha.Runnable, prototype );
 
         var run = mocha.Runnable.prototype.run;
         assert.isDefined( run );
