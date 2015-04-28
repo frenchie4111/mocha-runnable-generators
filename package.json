@@ -1,5 +1,5 @@
 {
-  "name": "mocha-runable-generators",
+  "name": "mocha-runnable-generators",
   "version": "1.0.0",
   "description": "Makes mocha runables take geneartors, so you can do it( function *() )",
   "main": "index.js",
