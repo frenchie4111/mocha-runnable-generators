@@ -1,0 +1,28 @@
+{
+  "name": "mocha-runable-generators",
+  "version": "1.0.0",
+  "description": "Makes mocha runables take geneartors, so you can do it( function *() )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frenchie4111/mocha-runnable-generators.git"
+  },
+  "keywords": [
+    "Mocha",
+    "runnable",
+    "generators",
+    "harmony",
+    "es6",
+    "javascript-next",
+    "next"
+  ],
+  "author": "Mike Lyons <mdl0394@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frenchie4111/mocha-runnable-generators/issues"
+  },
+  "homepage": "https://github.com/frenchie4111/mocha-runnable-generators"
+}
